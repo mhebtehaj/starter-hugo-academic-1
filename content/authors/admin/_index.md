@@ -6,7 +6,7 @@ title: Mohammad Hossein Ebtehaj
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master's Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
