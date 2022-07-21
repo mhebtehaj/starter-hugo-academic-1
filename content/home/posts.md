@@ -1,3 +1,4 @@
+<!--
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -36,3 +37,4 @@ design:
   view: compact
   columns: '2'
 ---
+-->
