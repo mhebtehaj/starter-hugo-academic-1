@@ -1,3 +1,4 @@
+<!--
 ---
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
@@ -22,3 +23,4 @@ design:
   font_size_min: 0.7
   font_size_max: 2.0
 ---
+-->
