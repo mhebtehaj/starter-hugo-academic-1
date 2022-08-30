@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: mhebtehaj@uwaterloo.ca 
+  email: mhebtehaj [at] uwaterloo.ca 
   #phone: 888 888 88 88
   address:
     street: 2569, 200 University Ave W 
