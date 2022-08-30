@@ -1,5 +1,4 @@
 ---
-<!--
 widget: tag_cloud
 
 # This file represents a page section.
@@ -22,4 +21,3 @@ design:
 
   font_size_max: 2.0
 ---
--->
