@@ -27,13 +27,13 @@ content:
   # Contact details (edit or remove options as required)
   email: mhebtehaj@uwaterloo.ca 
   #phone: 888 888 88 88
-  #address:
-  #  street: 450 Serra Mall
-  #  city: Stanford
-  #  region: CA
-  #  postcode: '94305'
-  #  country: United States
-  #  country_code: US
+  address:
+    street: 2569, 200 University Ave W 
+    city: Waterloo
+    region: Ontorio
+    postcode: N2L 3G1
+    country: Canada
+  #  country_code: CA
   #coordinates:
   #  latitude: '37.4275'
   #  longitude: '-122.1697'
@@ -43,10 +43,10 @@ content:
   #  - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   #contact_links:
-  #  - icon: twitter
-  #    icon_pack: fab
-  #    name: DM Me
-  #    link: 'https://twitter.com/Twitter'
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/mhebteha'
   #  - icon: video
   #    icon_pack: fas
   #    name: Zoom Me
@@ -55,3 +55,4 @@ content:
 design:
   columns: '2'
 ---
+
