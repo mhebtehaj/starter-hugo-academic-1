@@ -69,4 +69,4 @@ highlight_name: true
 
 I am currently a Master's student in the Algorithms and Complexity group of University of Waterloo. I am fortunate to be advised by Shalev Ben-David.  
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
