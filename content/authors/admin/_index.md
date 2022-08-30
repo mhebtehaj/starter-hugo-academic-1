@@ -25,9 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Master's in Computer Science
+      institution: University of Waterloo
+      year: 2021 - Current
     - course: B.Sc. in Computer Science
       institution: Sharif University of Technology
-      year: 2021
+      year: 2016 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,9 +40,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/mhebteha
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/mhebteha
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -53,12 +56,12 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mhebtehaj@uwaterloo.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -66,4 +69,4 @@ highlight_name: true
 
 I am currently a Master's student in the Algorithms and Complexity group of University of Waterloo. I am fortunate to be advised by Shalev Ben-David.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
