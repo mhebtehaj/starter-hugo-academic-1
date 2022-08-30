@@ -1,4 +1,4 @@
-
+---
 
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -35,5 +35,6 @@ content:
 design:
   # Choose a view for the listings:
   view: compact
+
   columns: '2'
 ---
